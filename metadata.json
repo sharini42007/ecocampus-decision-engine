@@ -1,0 +1,7 @@
+{
+  "name": "EcoCampus Decision Engine",
+  "description": "Predicting, Comparing and Improving Campus Sustainability through Intelligent Decision Support - Chennai Institute of Technology",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
